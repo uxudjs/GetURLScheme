@@ -229,3 +229,9 @@ GetURLScheme는 IPA 파일을 자동으로 분석하여 URL 스킴을 추출하�
 - 저자의 명확한 허가 없이 상업적 용도로 사용을 금합니다
 - 이 프로젝트를 사용할 때 저작자 표시와 저장소 링크를 반드시 유지하세요
 - 문의사항이나 제안이 있으시면 Issues에 남겨 주세요. 사용해 주셔서 감사합니다!
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Brandonjhd/GetURLScheme&type=Date)](https://star-history.com/#Brandonjhd/GetURLScheme&Date)
