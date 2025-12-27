@@ -1,7 +1,5 @@
 # GetURLScheme
 
-<img src="image.png" alt="icon" width="30%">
-
 ### 🌐 选择语言 | 選擇語言 | Choose Language | 言語選択 | 언어 선택
 - [🇨🇳 简体中文](#zh-cn)
 - [🇹🇼 繁體中文](#zh-tw)
@@ -14,22 +12,7 @@
 <a id="zh-cn"></a>
 ## 🇨🇳 简体中文
 
-自动解析 IPA 文件，提取 URL Scheme —— 移动应用开发者的必备工具
-
-<p>
-  <a href="https://github.com/Brandonjhd/GetURLScheme">
-    <img src="https://img.shields.io/github/stars/Brandonjhd/GetURLScheme?style=social" alt="GitHub Repo Stars"/>
-  </a>
-  <img src="https://img.shields.io/github/license/Brandonjhd/GetURLScheme?style=flat-square" alt="License" />
-  <img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform" />
-  <img src="https://img.shields.io/badge/open-source-brightgreen?style=flat-square" alt="Open Source" />
-  <img src="https://img.shields.io/github/languages/top/Brandonjhd/GetURLScheme?style=flat-square" alt="Main Language" />
-  <img src="https://img.shields.io/github/contributors/Brandonjhd/GetURLScheme?style=flat-square" alt="Contributors" />
-</p>
-
-### 简介
-
-GetURLScheme 是一个可自动解析 IPA 文件、提取其中 URL Scheme 的开源工具。
+自动解析 IPA 文件，提取 URL Scheme
 
 ### 主要功能
 
@@ -40,17 +23,13 @@ GetURLScheme 是一个可自动解析 IPA 文件、提取其中 URL Scheme 的�
 
 ### 作者
 
-[Brandonjhd](https://github.com/Brandonjhd)
-
-### 许可证
-
-本项目采用 CC BY-NC-SA 4.0 协议开源，使用、引用及分享时需署名，不得用于商业用途，衍生作品须采用相同协议共享。
+[uxudjs](https://github.com/uxudjs)
 
 ### 注意事项
 
 - 本项目仅允许开源学习及个人非商业用途
 - 未获作者授权禁止商业用途
-- 使用本项目时，请务必保留署名及仓库出处：https://github.com/Brandonjhd/GetURLScheme
+- 使用本项目时，请务必保留署名及仓库出处：https://github.com/uxudjs/GetURLScheme
 - 如果有问题或建议，请在 Issues 中提出。感谢使用！
 
 ---
@@ -58,22 +37,7 @@ GetURLScheme 是一个可自动解析 IPA 文件、提取其中 URL Scheme 的�
 <a id="zh-tw"></a>
 ## 🇹🇼 繁體中文
 
-自動解析 IPA 檔案，擷取 URL Scheme —— 行動應用開發者必備工具
-
-<p>
-  <a href="https://github.com/Brandonjhd/GetURLScheme">
-    <img src="https://img.shields.io/github/stars/Brandonjhd/GetURLScheme?style=social" alt="GitHub Repo Stars"/>
-  </a>
-  <img src="https://img.shields.io/github/license/Brandonjhd/GetURLScheme?style=flat-square" alt="License" />
-  <img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform" />
-  <img src="https://img.shields.io/badge/open-source-brightgreen?style=flat-square" alt="Open Source" />
-  <img src="https://img.shields.io/github/languages/top/Brandonjhd/GetURLScheme?style=flat-square" alt="Main Language" />
-  <img src="https://img.shields.io/github/contributors/Brandonjhd/GetURLScheme?style=flat-square" alt="Contributors" />
-</p>
-
-### 簡介
-
-GetURLScheme 是一個可自動解析 IPA 檔案並擷取其中 URL Scheme 的開源工具。
+自動解析 IPA 檔案，擷取 URL Scheme
 
 ### 主要功能
 
@@ -84,17 +48,13 @@ GetURLScheme 是一個可自動解析 IPA 檔案並擷取其中 URL Scheme 的�
 
 ### 作者
 
-[Brandonjhd](https://github.com/Brandonjhd)
-
-### 授權說明
-
-本專案採用 CC BY-NC-SA 4.0 授權開源，使用、引用及分享時需標註作者，不得用於商業用途，衍生作品須採用相同授權條款。
+[uxudjs](https://github.com/uxudjs)
 
 ### 注意事項
 
 - 僅供開源學習及個人非商業用途
 - 未經作者授權，不得用於任何商業用途
-- 使用本專案時，請務必保留標註及原始倉庫連結：https://github.com/Brandonjhd/GetURLScheme
+- 使用本專案時，請務必保留標註及原始倉庫連結：https://github.com/uxudjs/GetURLScheme
 - 有任何問題或建議請至 Issues 留言，感謝您的使用！
 
 ---
@@ -102,22 +62,7 @@ GetURLScheme 是一個可自動解析 IPA 檔案並擷取其中 URL Scheme 的�
 <a id="en"></a>
 ## 🇺🇸 English
 
-Open-source tool to automatically extract URL Schemes from IPA files — a must-have for mobile developers.
-
-<p>
-  <a href="https://github.com/Brandonjhd/GetURLScheme">
-    <img src="https://img.shields.io/github/stars/Brandonjhd/GetURLScheme?style=social" alt="GitHub Repo Stars"/>
-  </a>
-  <img src="https://img.shields.io/github/license/Brandonjhd/GetURLScheme?style=flat-square" alt="License" />
-  <img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform" />
-  <img src="https://img.shields.io/badge/open-source-brightgreen?style=flat-square" alt="Open Source" />
-  <img src="https://img.shields.io/github/languages/top/Brandonjhd/GetURLScheme?style=flat-square" alt="Main Language" />
-  <img src="https://img.shields.io/github/contributors/Brandonjhd/GetURLScheme?style=flat-square" alt="Contributors" />
-</p>
-
-### Introduction
-
-GetURLScheme is an open-source tool for automatically parsing IPA files and extracting all their URL Schemes.
+Open-source tool to automatically extract URL Schemes from IPA files
 
 ### Features
 
@@ -128,12 +73,7 @@ GetURLScheme is an open-source tool for automatically parsing IPA files and extr
 
 ### Author
 
-[Brandonjhd](https://github.com/Brandonjhd)
-
-### License
-
-This project is licensed under CC BY-NC-SA 4.0.  
-Attribution required; commercial use is prohibited; derivative works must be shared under the same license.
+[uxudjs](https://github.com/uxudjs)
 
 ### Notices
 
@@ -147,22 +87,7 @@ Attribution required; commercial use is prohibited; derivative works must be sha
 <a id="ja"></a>
 ## 🇯🇵 日本語
 
-IPA ファイルから URL スキームを自動抽出 — モバイル開発者必携ツール
-
-<p>
-  <a href="https://github.com/Brandonjhd/GetURLScheme">
-    <img src="https://img.shields.io/github/stars/Brandonjhd/GetURLScheme?style=social" alt="GitHub Repo Stars"/>
-  </a>
-  <img src="https://img.shields.io/github/license/Brandonjhd/GetURLScheme?style=flat-square" alt="License" />
-  <img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform" />
-  <img src="https://img.shields.io/badge/open-source-brightgreen?style=flat-square" alt="Open Source" />
-  <img src="https://img.shields.io/github/languages/top/Brandonjhd/GetURLScheme?style=flat-square" alt="Main Language" />
-  <img src="https://img.shields.io/github/contributors/Brandonjhd/GetURLScheme?style=flat-square" alt="Contributors" />
-</p>
-
-### 概要
-
-GetURLScheme は、IPA ファイルを自動解析して URL スキームを抽出するオープンソースツールです。
+IPA ファイルから URL スキームを自動抽出
 
 ### 主な機能
 
@@ -173,11 +98,7 @@ GetURLScheme は、IPA ファイルを自動解析して URL スキームを抽�
 
 ### 作者
 
-[Brandonjhd](https://github.com/Brandonjhd)
-
-### ライセンス
-
-本プロジェクトは CC BY-NC-SA 4.0 ライセンスのもとで公開されています。著作権表示が必要。商用利用不可。同一ライセンスで共有してください。
+[uxudjs](https://github.com/uxudjs)
 
 ### 注意事項
 
@@ -191,22 +112,7 @@ GetURLScheme は、IPA ファイルを自動解析して URL スキームを抽�
 <a id="ko"></a>
 ## 🇰🇷 한국어
 
-IPA 파일에서 URL 스킴을 자동으로 추출 — 모바일 개발자를 위한 필수 도구
-
-<p>
-  <a href="https://github.com/Brandonjhd/GetURLScheme">
-    <img src="https://img.shields.io/github/stars/Brandonjhd/GetURLScheme?style=social" alt="GitHub Repo Stars"/>
-  </a>
-  <img src="https://img.shields.io/github/license/Brandonjhd/GetURLScheme?style=flat-square" alt="License" />
-  <img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform" />
-  <img src="https://img.shields.io/badge/open-source-brightgreen?style=flat-square" alt="Open Source" />
-  <img src="https://img.shields.io/github/languages/top/Brandonjhd/GetURLScheme?style=flat-square" alt="Main Language" />
-  <img src="https://img.shields.io/github/contributors/Brandonjhd/GetURLScheme?style=flat-square" alt="Contributors" />
-</p>
-
-### 소개
-
-GetURLScheme는 IPA 파일을 자동으로 분석하여 URL 스킴을 추출하는 오픈소스 도구입니다.
+IPA 파일에서 URL 스킴을 자동으로 추출
 
 ### 주요 기능
 
@@ -217,11 +123,7 @@ GetURLScheme는 IPA 파일을 자동으로 분석하여 URL 스킴을 추출하�
 
 ### 저자
 
-[Brandonjhd](https://github.com/Brandonjhd)
-
-### 라이선스
-
-이 프로젝트는 CC BY-NC-SA 4.0 라이선스로 오픈 소스화되어 있습니다. 저작자 표시 필요, 상업적 사용 금지, 동일한 라이선스로 공유.
+[uxudjs](https://github.com/uxudjs)
 
 ### 안내사항
 
@@ -234,4 +136,4 @@ GetURLScheme는 IPA 파일을 자동으로 분석하여 URL 스킴을 추출하�
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Brandonjhd/GetURLScheme&type=Date)](https://star-history.com/#Brandonjhd/GetURLScheme&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=uxudjs/GetURLScheme&type=Date)](https://star-history.com/#uxudjs/GetURLScheme&Date)
