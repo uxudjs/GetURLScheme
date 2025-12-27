@@ -21,10 +21,6 @@
 - 识别并展示所有 CFBundleURLSchemes 列表
 - 结果导出为文本或 JSON 格式
 
-### 作者
-
-[uxudjs](https://github.com/uxudjs)
-
 ### 注意事项
 
 - 本项目仅允许开源学习及个人非商业用途
@@ -45,10 +41,6 @@
 - 支援批次處理 IPA 檔案
 - 識別並顯示所有 CFBundleURLSchemes 列表
 - 結果可輸出為文字或 JSON 格式
-
-### 作者
-
-[uxudjs](https://github.com/uxudjs)
 
 ### 注意事項
 
@@ -71,10 +63,6 @@ Open-source tool to automatically extract URL Schemes from IPA files
 - Lists all extracted CFBundleURLSchemes
 - Exports results as text or JSON
 
-### Author
-
-[uxudjs](https://github.com/uxudjs)
-
 ### Notices
 
 - For open-source learning and non-commercial use only
@@ -96,10 +84,6 @@ IPA ファイルから URL スキームを自動抽出
 - すべての CFBundleURLSchemes を一覧表示
 - テキストまたは JSON 形式で結果出力
 
-### 作者
-
-[uxudjs](https://github.com/uxudjs)
-
 ### 注意事項
 
 - 本プロジェクトはオープンソース学習および非商用利用のみ許可されています
@@ -120,10 +104,6 @@ IPA 파일에서 URL 스킴을 자동으로 추출
 - 배치 처리 지원
 - 모든 CFBundleURLSchemes를 목록으로 표시
 - 결과를 텍스트 또는 JSON으로 내보내기
-
-### 저자
-
-[uxudjs](https://github.com/uxudjs)
 
 ### 안내사항
 
