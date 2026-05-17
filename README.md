@@ -14,6 +14,8 @@
 
 自动解析 IPA 文件，提取 URL Scheme
 
+欢迎使用在线版本：https://tools.uxudjs.top/zh-CN/tool/ipa-url-scheme-parser
+
 ### 主要功能
 
 - 解析 IPA 文件，提取 CFBundleURLSchemes 信息
@@ -34,6 +36,8 @@
 ## 🇹🇼 繁體中文
 
 自動解析 IPA 檔案，擷取 URL Scheme
+
+歡迎使用線上版本：https://tools.uxudjs.top/zh-TW/tool/ipa-url-scheme-parser
 
 ### 主要功能
 
@@ -56,6 +60,8 @@
 
 Open-source tool to automatically extract URL Schemes from IPA files
 
+Welcome to the online version: https://tools.uxudjs.top/en/tool/ipa-url-scheme-parser
+
 ### Features
 
 - Parse IPA files and extract CFBundleURLSchemes information
@@ -76,6 +82,8 @@ Open-source tool to automatically extract URL Schemes from IPA files
 ## 🇯🇵 日本語
 
 IPA ファイルから URL スキームを自動抽出
+
+オンライン版をご利用ください：https://tools.uxudjs.top/ja/tool/ipa-url-scheme-parser
 
 ### 主な機能
 
@@ -98,12 +106,14 @@ IPA ファイルから URL スキームを自動抽出
 
 IPA 파일에서 URL 스킴을 자동으로 추출
 
+온라인 버전을 사용해 보세요：https://tools.uxudjs.top/ko/tool/ipa-url-scheme-parser
+
 ### 주요 기능
 
 - IPA 파일을 분석하여 CFBundleURLSchemes 정보를 추출합니다
 - 배치 처리 지원
 - 모든 CFBundleURLSchemes를 목록으로 표시
-- 결과를 텍스트 또는 JSON으로 내보내기
+- 결과를 텍스트 또는 JSON으로보내기
 
 ### 안내사항
 
